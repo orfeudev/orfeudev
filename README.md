@@ -57,5 +57,10 @@
 - Colaboração em projetos para aprimorar a experiência do usuário, focando em acessibilidade e performance.  
 - Otimização do desempenho de interfaces, garantindo eficiência e melhor usabilidade para os usuários.
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orfeudev/orfeudev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orfeudev/orfeudev/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/orfeudev/orfeudev/output/github-contribution-grid-snake.svg">
+</picture>
 
 
