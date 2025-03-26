@@ -21,7 +21,7 @@
 - **SQL Impressionador - Hashtag Treinamentos**
 - **Power BI Impressionador - Hashtag Treinamentos**
 - **Formação Cientista de Dados: O Curso Completo - Fernando Amaral - Udemy**
-
+- ** Trilha Preditiva Analytics - Preditiva **
 ----
 
 #### 📚 Formação
