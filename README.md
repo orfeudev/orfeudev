@@ -1,6 +1,6 @@
-## Orfeu 👩🏻‍💻
-
 <h3 align="left">Olá! você pode me chamar de Orfeu! </h3>
+
+----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orfev/)
 ### 💻 [Meu portfólio](https://github.com/orfeudev/analise-dados-portfolio)
