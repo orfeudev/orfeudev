@@ -6,7 +6,7 @@
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orfev/)[![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@orfev)
 
 
-#### 💻 [Link para o meu portfólio](https://github.com/orfeudev/analise-dados-portfolio)
+#### 💻 [Meu portfólio](https://github.com/orfeudev/analise-dados-portfolio)
 #### ℹ️ Informações:
 
 - 📊 Analista de Dados, atuando na GAUSS UFC(Empresa Júnior de estatística da Universidade Federal do Ceará) como cientista de dados, consultor em estatística e analista de dados com experiência em projetos que envolvem análise e tratamento de dados, modelos preditivos, visualização e apresentação de dados.  
