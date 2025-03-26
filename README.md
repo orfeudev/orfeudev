@@ -7,7 +7,8 @@
 > [![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@orfev)  Para ler meus artigos no Medium.
 
 
-### 💻 [Meu portfólio](https://github.com/orfeudev/analise-dados-portfolio)
+### 💻 [Link para o meu portfólio](https://github.com/orfeudev/analise-dados-portfolio)
+### ℹ️ Informações:
 
 - 📊 Analista de Dados, com experiência na GAUSS UFC(Empresa Júnior de estatística da Universidade Federal do Ceará) como consultor em estatística e analista de dados, atuando em projetos que envolvem análise estatística, ciência de dados e visualização de informações.  
 - 📈 Na minha transição para análise de dados, usei minha combinação de expertise técnica e visão analítica para transformar dados complexos em insights estratégicos e soluções eficazes.  
