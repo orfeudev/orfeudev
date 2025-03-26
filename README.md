@@ -10,9 +10,8 @@
 ### 💻 [Link para o meu portfólio](https://github.com/orfeudev/analise-dados-portfolio)
 ### ℹ️ Informações:
 
-- 📊 Analista de Dados, com experiência na GAUSS UFC(Empresa Júnior de estatística da Universidade Federal do Ceará) como consultor em estatística e analista de dados, atuando em projetos que envolvem análise estatística, ciência de dados e visualização de informações.  
-- 📈 Na minha transição para análise de dados, usei minha combinação de expertise técnica e visão analítica para transformar dados complexos em insights estratégicos e soluções eficazes.  
-- 🥋 Minha especialidade é transformar grandes volumes de dados em informações valiosas para otimização de processos e suporte à tomada de decisão.  
+- 📊 Analista de Dados, atuando na GAUSS UFC(Empresa Júnior de estatística da Universidade Federal do Ceará) como cientista de dados, consultor em estatística e analista de dados com experiência em projetos que envolvem análise e tratamento de dados, modelos preditivos, visualização e apresentação de dados.  
+- 📈 Projetos e experiência com Pandas, Matplotlib, Scikit-learn, Numpy e Seaborn.  
 - ⚙️ Possuo habilidades em tratamento e preparação de dados, utilizando linguagens como Python (Pandas, Seaborn, Matplotlib), SQL (PostgreSQL) e R.  
 - ⚙️ As principais ferramentas que utilizo são Power BI, PostgreSQL, Git, Python, R e SQL.  
 
