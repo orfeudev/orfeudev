@@ -3,8 +3,8 @@
 ----
 ## 🌐 Outras redes
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orfev/) Para entrar em contato comigo.
- [![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@orfev)  Para ler meus artigos no Medium.
+ > [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orfev/) Para entrar em contato comigo.
+ > [![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@orfev)  Para ler meus artigos no Medium.
 
 
 ### 💻 [Meu portfólio](https://github.com/orfeudev/analise-dados-portfolio)
