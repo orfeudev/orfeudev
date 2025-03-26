@@ -1,4 +1,4 @@
-## Oi Pessoal eu sou o ~Francisco~ Orfeu
+## Oi Pessoal eu sou o  _~Francisco~_ Orfeu
 
 <!--
 **orfeudev/orfeudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
