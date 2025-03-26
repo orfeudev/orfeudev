@@ -1,7 +1,7 @@
 <h3 align="left">Olá! você pode me chamar de Orfeu! </h3>
 
 ----
-## 🌐 Outras redes
+## 🌐 Conecte-se comigo
 
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orfev/) Para entrar em contato comigo.  
 > [![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@orfev)  Para ler meus artigos no Medium.
