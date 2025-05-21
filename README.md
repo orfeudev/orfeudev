@@ -17,6 +17,7 @@
 ----
 
 #### 📚 Certificações
+- **Programa Desenvolve IA e Fundamento de Dados - Grupo Boticário**
 - **Excel Impressionador - Hashtag Treinamentos**
 - **SQL Impressionador - Hashtag Treinamentos**
 - **Power BI Impressionador - Hashtag Treinamentos**
