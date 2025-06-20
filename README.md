@@ -23,10 +23,11 @@
 - **Power BI Impressionador - Hashtag Treinamentos**
 - **Formação Cientista de Dados: O Curso Completo - Fernando Amaral - Udemy**
 - **Trilha Preditiva Analytics - Preditiva**
+
 ----
 
 #### 📚 Formação
--  **Bacharel em Estatística(Em andamento) - Universidade Federal do Ceará**
+-  **Bacharel em Estatística(4° semestre) - Universidade Federal do Ceará**
 -  **Análise e Desenvolvimento de Sistemas - UNINASSAU.**
 -  **Cursei 6 semestres em física na UNILAB.**
 
