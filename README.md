@@ -16,9 +16,11 @@
 
 ----
 
-#### 📚 Certificações
+#### 📚 Cursos
 - **Programa Desenvolve IA e Fundamento de Dados - Grupo Boticário**
 - **Excel Impressionador - Hashtag Treinamentos**
+- **Python Impressionador - Hashtag Treinamentos**
+- **SQL para Análise de Dados: Do básico ao avançado - Midori Toyota**
 - **SQL Impressionador - Hashtag Treinamentos**
 - **Power BI Impressionador - Hashtag Treinamentos**
 - **Formação Cientista de Dados: O Curso Completo - Fernando Amaral - Udemy**
