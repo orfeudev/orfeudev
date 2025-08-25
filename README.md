@@ -1,4 +1,4 @@
-<h3 align="left"> Seja bem-vindo! Eu sou o Orfeu e aqui você poderá ler sobre minha trajetória e ver meu portfólio </h3>
+<h3 align="left"> Seja bem-vindo! Eu sou o Orfeu </h3>
 
 ----
 #### 🌐 Redes
