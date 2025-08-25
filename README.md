@@ -1,11 +1,12 @@
-<h3 align="left"> Seja bem-vindo! Eu sou o Orfeu </h3>
+<h3 align="left"> Seja bem-vindo! Eu sou o Orfeu e aqui você poderá ler sobre minha trajetória e ver meu portfólio </h3>
 
 ----
 #### 🌐 Redes
 
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orfev/)[![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@orfev)
-
-
+----
+#### 💻 [Meu portfólio](https://github.com/orfeudev/analise-dados-portfolio)
+----
 #### ℹ️ Informações:
 
 - 📊 Atuo na GAUSS UFC(Empresa Júnior de estatística da Universidade Federal do Ceará) como atual Diretor de Projetos, Cientista de Dados, Consultor em Estatística e Analista de Dados com experiência em projetos que envolvem análise e tratamento de dados, modelos preditivos, visualização e apresentação de dados.  
@@ -19,10 +20,6 @@
 -  **Bacharel em Estatística(4° semestre) - Universidade Federal do Ceará**
 -  **Análise e Desenvolvimento de Sistemas - UNINASSAU.**
 -  **Cursei 6 semestres em física na UNILAB.**
-
-----
-
-#### 💻 [Meu portfólio](https://github.com/orfeudev/analise-dados-portfolio)
 
 ----
 
