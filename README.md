@@ -5,7 +5,8 @@
 
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orfev/)[![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@orfev)
 ----
-#### 💻 [Meu portfólio](https://github.com/orfeudev/analise-dados-portfolio)
+#### 💻 Portfólio:
+[Análise Descritiva E-commerce Brasil](https://github.com/orfeudev/analise-descritiva-e-commerce-brasil)
 ----
 #### ℹ️ Informações:
 
