@@ -12,7 +12,7 @@
 ----
 #### ℹ️ Informações:
 
-- 📊 Atuo na GAUSS UFC(Empresa Júnior de estatística da Universidade Federal do Ceará) como atual Diretor de Projetos, Cientista de Dados, Consultor em Estatística e Analista de Dados com experiência em projetos que envolvem análise e tratamento de dados, modelos preditivos, visualização e apresentação de dados.  
+- 📊 Atuo na GAUSS UFC(Empresa Júnior de estatística da Universidade Federal do Ceará) como atual Presidente, Cientista de Dados, Consultor em Estatística e Analista de Dados com experiência em projetos que envolvem análise e tratamento de dados, modelos preditivos, visualização e apresentação de dados.  
 - 📈 Projetos e experiência com Pandas, Matplotlib, Scikit-learn, Numpy e Seaborn.  
 - ⚙️ Possuo habilidades em tratamento e preparação de dados, utilizando linguagens como Python (Pandas, Seaborn, Matplotlib), SQL (PostgreSQL) e R.  
 - ⚙️ As principais ferramentas que utilizo são Power BI, PostgreSQL, Git, Python, R e SQL.  
