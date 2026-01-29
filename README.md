@@ -26,8 +26,16 @@
 
 ----
 
-#### ⭐️ Experiências Profissionais
-### GAUSS UFC – Diretor de Projetos (jun/2024 – atual)
+#### ⭐️ Experiências Profissionais### 
+### GAUSS UFC – Presidente (jun/2025 – atual)
+- Gestão Estratégica e Liderança: Responsável pela visão macro da empresa júnior, definindo metas anuais e garantindo o alinhamento de todos os diretores com a cultura organizacional e os objetivos de crescimento.
+
+- Representação Institucional: Atuação como porta-voz da Gauss perante a UFC, o Movimento Empresa Júnior (MEJ) e parceiros externos, fortalecendo o networking e a imagem da consultoria no mercado.
+
+- Tomada de Decisão e Governança: Condução de reuniões de diretoria executiva, gestão de conflitos e supervisão da saúde financeira e jurídica da organização.
+
+- Expansão de Mercado: Desenvolvimento de parcerias estratégicas para aumentar o volume de vendas e o impacto social dos projetos de estatística e ciência de dados no ecossistema empresarial.
+### GAUSS UFC – Diretor de Projetos (mar/2025 – Jan/2026)
 
 - Lidero uma equipe de alunos dos cursos de Estatística e Ciência de Dados na elaboração e execução de projetos aplicados.
 - Responsável por planejar, organizar e acompanhar o desenvolvimento das entregas, garantindo qualidade e cumprimento de prazos.
