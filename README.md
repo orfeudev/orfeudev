@@ -20,14 +20,14 @@
 ----
 
 #### 📚 Formação
--  **Bacharel em Estatística(4° semestre) - Universidade Federal do Ceará**
+-  **Bacharel em Estatística(5° semestre) - Universidade Federal do Ceará**
 -  **Análise e Desenvolvimento de Sistemas - UNINASSAU.**
 -  **Cursei 6 semestres em física na UNILAB.**
 
 ----
 
 #### ⭐️ Experiências Profissionais### 
-### GAUSS UFC – Presidente (jun/2025 – atual)
+### GAUSS UFC – Presidente (jan/2025 – atual)
 - Gestão Estratégica e Liderança: Responsável pela visão macro da empresa júnior, definindo metas anuais e garantindo o alinhamento de todos os diretores com a cultura organizacional e os objetivos de crescimento.
 
 - Representação Institucional: Atuação como porta-voz da Gauss perante a UFC, o Movimento Empresa Júnior (MEJ) e parceiros externos, fortalecendo o networking e a imagem da consultoria no mercado.
