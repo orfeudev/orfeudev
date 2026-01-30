@@ -26,7 +26,7 @@
 
 ----
 
-#### ⭐️ Experiências Profissionais### 
+#### ⭐️ Experiências Profissionais  
 ### GAUSS UFC – Presidente (jan/2025 – atual)
 - Gestão Estratégica e Liderança: Responsável pela visão macro da empresa júnior, definindo metas anuais e garantindo o alinhamento de todos os diretores com a cultura organizacional e os objetivos de crescimento.
 
