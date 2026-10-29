@@ -7,7 +7,7 @@
 ----
 ### 💻 Portfólio:
 
-#### [Análise E-commerce Brasil](https://github.com/orfeudev/analise-descritiva-e-commerce-brasil)
+#### [Análise E-commerce Brasil](https://github.com/orfeudev/analise-e-commerce-brasil)
 
 ----
 #### ℹ️ Informações:
